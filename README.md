@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iskanderrus
+- 👋 Hi, I’m Alex @Iskanderrus
 - 👀 I’m interested in switching my career to programming. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on study of Python Development.  
