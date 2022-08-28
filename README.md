@@ -2,7 +2,7 @@
 - 👀 I’m interested in switching my career to Data Science and Python programming. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on study of Python Development.  
-- 📫 How to reach me: alex_ru2002@list.ru or Telegram @Iskanderrus77
+- 📫 How to reach me: a.n.chasovskoy@gmail.com or Telegram @Iskanderrus77
 
 <!---
 Iskanderrus/Iskanderrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
