@@ -1,3 +1,6 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Alex @Iskanderrus
 - 👀 I’m interested in switching my career to Data Science and Python programming. 
 - 🌱 I’m currently learning Python.
