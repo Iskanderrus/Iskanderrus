@@ -5,7 +5,7 @@
 - 📫 How to reach me: a.n.chasovskoy@gmail.com or Telegram @Iskanderrus77
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
