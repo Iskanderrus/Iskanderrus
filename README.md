@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alex @Iskanderrus
+- 👋 Hi, ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+  I’m Alex @Iskanderrus
 - 👀 I’m interested in switching my career to Data Science and Python programming. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on study of Python Development.  
