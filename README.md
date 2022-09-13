@@ -1,4 +1,4 @@
-- 👋 Hi, ![Visitor Count](https://profile-counter.glitch.me/{Iskanderrus}/count.svg)  
+- 👋 Hi, ![](https://komarev.com/ghpvc/?username=Iskanderrus=flat-square&label=PROFILE+VIEWS&color=red)  
   I’m Alex @Iskanderrus
 - 👀 I’m interested in switching my career to Data Science and Python programming. 
 - 🌱 I’m currently learning Python.
