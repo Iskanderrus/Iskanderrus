@@ -1,8 +1,10 @@
 - 👋 Hi, ![](https://komarev.com/ghpvc/?username=Iskanderrus&style=flat-square&label=PROFILE+VIEWS&color=red)  
-  I’m Alex @Iskanderrus
-- 👀 I’m interested in switching my career to Data Science and Python programming. 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on study of Python Development.  
+  and welcome to my GitHub page. 
+  
+  I’m Alex 
+- 👀 I'm switching my career to Data Science and Python programming 
+- 💞️ with focus on Data Engineering, Computer Vision and NLP.
+- :chart_with_upwards_trend: In my repositories I collect some useful code samples as well as share my current projects I'm working on. 
 - 📫 How to reach me: a.n.chasovskoy@gmail.com or Telegram @Iskanderrus77
 
 
