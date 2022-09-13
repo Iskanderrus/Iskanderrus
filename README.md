@@ -5,7 +5,7 @@
 - 👀 I'm switching my career to Data Science and Python programming 
 - 💞️ with focus on Data Engineering, Computer Vision and NLP.
 - :chart_with_upwards_trend: In my repositories I collect some useful code samples as well as share my current projects I'm working on. 
-- 📫 How to reach me: 
+- 📫 How to reach me:  
                     - email: a.n.chasovskoy@gmail.com
                     - Telegram: @Iskanderrus77
 
