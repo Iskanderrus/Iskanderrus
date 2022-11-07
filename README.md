@@ -12,10 +12,19 @@
 <a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Click for detailed info" width="80%"></a>
 
 
-[![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>[![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
+  </tr>
+  <tr>
+    <td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
+  </tr>
+</table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 Iskanderrus/Iskanderrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
