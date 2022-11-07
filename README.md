@@ -9,10 +9,10 @@
                     - email: a.n.chasovskoy@gmail.com  
                     - Telegram: @Iskanderrus77
 
-<a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Click for detailed info" width="80%"></a>
+<a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Click for detailed info" style="float:center;width:150px;height:170px;"></a>
 
 
-<table>
+<!-- <table>
   <tr>
     <td>[![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
 </table>
-
+ -->
 
 
 
