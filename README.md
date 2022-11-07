@@ -29,7 +29,7 @@
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 
 <p align="center">
-<table>
+<table border="0">
   <th>
 <img src="https://github-readme-stats.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
   </th>
