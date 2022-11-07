@@ -9,8 +9,8 @@
                     - email: a.n.chasovskoy@gmail.com  
                     - Telegram: @Iskanderrus77
 
-[!<img src="/github-metrics.svg" alt="Metrics" width="100%">]
-(https://metrics.lecoq.io/insights/Iskanderrus)
+<a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Metrics" width="100%"><\a>
+
 
 [![Alex' GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskanderrus&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
