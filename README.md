@@ -8,9 +8,9 @@
 - 📫 How to reach me:  
                     - email: a.n.chasovskoy@gmail.com  
                     - Telegram: @Iskanderrus77
-
+<p align="center">
 <a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Click for detailed info" class="center" width="70%"></a>
-
+</p>
 
 <!-- <table>
   <tr>
