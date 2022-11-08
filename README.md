@@ -1,5 +1,5 @@
 <!-- <p align="center">
-<img src="https://github.com/Iskanderrus/Iskanderrus/blob/main/images/my_banner.gif" alt="My banner" width="70%">
+<img src="/my_banner.png" alt="My banner" width="70%">
 </p> -->
 
 
