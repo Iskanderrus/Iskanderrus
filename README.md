@@ -29,10 +29,10 @@ Hi, and welcome to my GitHub page 👋
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Iskanderrus&theme=dracula">
   </td>
   <td>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
   </td>
   <td>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula">
   </td>
  </tr>
   <tr>
