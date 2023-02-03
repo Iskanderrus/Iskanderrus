@@ -9,7 +9,7 @@ Hi, and welcome to my GitHub page 👋
   I’m Alex 
 - I'm switching my career to Data Science and Python programming 👀
 - with focus on Data Engineering, Classic ML, Computer Vision and NLP
-- my true love list: <br>
+- my current stack: <br>
     ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
