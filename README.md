@@ -32,6 +32,7 @@ Hi, and welcome to my GitHub page 👋
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
     ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
     ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
+    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 - In my repositories I collect some useful code samples as well as share my current projects I'm working on.
 - I'm honored to have ![](https://komarev.com/ghpvc/?username=Iskanderrus&style=flat-square&label=PROFILE+VIEWS&color=red)
 - Feel free to reach me: <br><a href="https://www.linkedin.com/in/Iskanderrus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
