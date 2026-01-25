@@ -74,7 +74,7 @@ results-oriented Full-Stack Developer with over 5 years of experience specializi
 <table>
  <tr>
   <td>&nbsp;
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Iskanderrus&theme=dracula">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=Iskanderrus&theme=dracula)](https://git.io/streak-stats)
   </td>
   <td>&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
