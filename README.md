@@ -1,12 +1,12 @@
 <!--<div>
   <p align="center">
-     <img src="/my_banner.png" alt="My banner" width="80%">
+     <img src="my_banner.png" alt="My banner" width="80%">
   </p>
 </div>-->
 
 Hi, and welcome to my GitHub page 👋
-  
-  I’m Alex, 
+
+I'm Alex,
 results-oriented Full-Stack Developer with over 5 years of experience specializing in Python, Java, Django, and Spring Boot, building scalable, end-to-end solutions with a focus on back-end development. Adept at creating robust back-end architectures, while also handling front-end tasks using HTML, CSS, and JavaScript to ensure seamless user experiences. Passionate about translating business needs into technical solutions that drive efficiency and automation.
 - my current stack: <br>
     <!--![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
@@ -32,18 +32,18 @@ results-oriented Full-Stack Developer with over 5 years of experience specializi
 
     ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-  
-  
+
+
     <!--
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-    
+
     ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
     ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
     ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
   <a href="https://www.ibm.com/cloud"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white"></a>-->
-  
+
     <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)-->
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -60,11 +60,11 @@ results-oriented Full-Stack Developer with over 5 years of experience specializi
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-    
+
     ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-    
-    
+
+
 - In my repositories I collect some useful code samples as well as share my current projects I'm working on.
 - I'm honored to have ![](https://komarev.com/ghpvc/?username=Iskanderrus&style=flat-square&label=PROFILE+VIEWS&color=red)
 - Feel free to reach me: <br><a href="https://www.linkedin.com/in/Iskanderrus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -86,7 +86,7 @@ results-oriented Full-Stack Developer with over 5 years of experience specializi
   <tr>
   <td colspan="3">&nbsp;
   <p align="center">
-  <a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="/github-metrics.svg" alt="Click for detailed info" width="50%"></a>
+  <a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="github-metrics.svg" alt="Click for detailed info" width="50%"></a>
   </p>
   </td>
  </tr>
