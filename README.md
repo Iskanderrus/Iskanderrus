@@ -74,7 +74,7 @@ results-oriented Full-Stack Developer with over 5 years of experience specializi
 <table>
  <tr>
   <td>&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats">
 </td>
   <td>&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
