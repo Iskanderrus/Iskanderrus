@@ -29,3 +29,11 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 ## Reach me
 
 [LinkedIn](https://www.linkedin.com/in/iskanderrus/) · [Email](mailto:a.n.chasovskoy@gmail.com) · Remote, EU/US timezones
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula" alt="Top Languages" height="165">
+</p>
