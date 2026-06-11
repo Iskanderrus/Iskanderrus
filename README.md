@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-**AI Engineer · Backend Systems & RAG Pipelines**
+<!-- **AI Engineer · Backend Systems & RAG Pipelines**-->
 
 Backend engineer (Python/Django, Go) with 3+ years of production experience, now building AI systems: retrieval pipelines, LLM agents, and the infrastructure that keeps them reliable in production.
 
