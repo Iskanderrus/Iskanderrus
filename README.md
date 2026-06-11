@@ -14,7 +14,7 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 
 | Project | What it does | Stack |
 |---|---|---|
-| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Dockerized Django delivery-management service with a test suite | Python, Django, Docker |
+| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Django REST delivery marketplace — JWT auth, Celery/Redis async pipelines, road-distance pricing via OpenRouteService | Python, Django, Celery, Docker |
 
 <!-- Uncomment once fields-mapper is pushed to GitHub:
 | [fields-mapper](https://github.com/Iskanderrus/fields-mapper) | Go microservice for CSV field inference with a tiered heuristic → LLM architecture | Go, LLM API |
@@ -24,7 +24,7 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 ## Currently
 
 - 📚 Deep-diving LLMOps, AWS, Kubernetes, and AI security
-- 🛠 Shipping AI projects weekly — watch this space
+- 🛠 Building my AI project roadmap in public — new projects landing here regularly
 
 ## Reach me
 
@@ -35,5 +35,4 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats" height="165">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula" alt="Top Languages" height="165">
 </p>
