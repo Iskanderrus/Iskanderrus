@@ -10,7 +10,9 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 - 🤖 **LLM agents** — LangGraph workflows, direct Claude API integration, structured outputs, MCP servers
 - ⚙️ **Production backend** — Django REST, Go microservices (gRPC), PostgreSQL, Redis, Docker, Kubernetes
 
-<!-- Toolbox, grouped. Linked chips = topics with public repos; unlinked chips = topics on private work (link them once a public repo carries the topic).
+## Toolbox
+
+<!-- Grouped chips. Linked chips = topics with public repos; unlinked chips = topics on private work (link them once a public repo carries the topic).
      Add rag/llm/vector-search chips to an "AI engineering" group as those repos publish. -->
 <p align="center">
   <sub><b>Languages</b></sub><br>
@@ -30,14 +32,18 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 
 ## Featured work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Django REST delivery marketplace — JWT auth, Celery/Redis async pipelines, road-distance pricing via OpenRouteService | <img src="https://img.shields.io/badge/django-6272a4?style=flat-square" alt="django"> <img src="https://img.shields.io/badge/celery-6272a4?style=flat-square" alt="celery"> <img src="https://img.shields.io/badge/docker-6272a4?style=flat-square" alt="docker"> |
+### [delivery_service](https://github.com/Iskanderrus/delivery_service)
+
+Django REST delivery marketplace — JWT auth, Celery/Redis async pipelines, road-distance pricing via OpenRouteService.<br>
+<img src="https://img.shields.io/badge/django-6272a4?style=flat-square" alt="django"> <img src="https://img.shields.io/badge/celery-6272a4?style=flat-square" alt="celery"> <img src="https://img.shields.io/badge/docker-6272a4?style=flat-square" alt="docker">
 
 <!-- Uncomment once fields-mapper is pushed to GitHub (and give the repo matching topics):
-| [fields-mapper](https://github.com/Iskanderrus/fields-mapper) | Go microservice for CSV field inference with a tiered heuristic → LLM architecture | <img src="https://img.shields.io/badge/golang-6272a4?style=flat-square" alt="golang"> <img src="https://img.shields.io/badge/llm-6272a4?style=flat-square" alt="llm"> |
+### [fields-mapper](https://github.com/Iskanderrus/fields-mapper)
+
+Go microservice for CSV field inference with a tiered heuristic → LLM architecture.<br>
+<img src="https://img.shields.io/badge/golang-6272a4?style=flat-square" alt="golang"> <img src="https://img.shields.io/badge/llm-6272a4?style=flat-square" alt="llm">
 -->
-<!-- Add your AI roadmap projects here as you publish them -->
+<!-- Add your AI roadmap projects here as you publish them, one ### block each -->
 
 ## Currently
 
@@ -51,6 +57,5 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula" alt="GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats" height="180">
 </p>
