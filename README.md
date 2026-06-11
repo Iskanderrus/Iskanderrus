@@ -10,14 +10,23 @@ Backend engineer (Python/Django, Go) with 3+ years of production experience, now
 - 🤖 **LLM agents** — LangGraph workflows, direct Claude API integration, structured outputs, MCP servers
 - ⚙️ **Production backend** — Django REST, Go microservices (gRPC), PostgreSQL, Redis, Docker, Kubernetes
 
+<!-- Toolbox: keep in sync with public repo topics; add rag/llm/vector-search chips as those repos publish -->
+<p align="center">
+  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Apython"><img src="https://img.shields.io/badge/python-6272a4?style=flat-square" alt="python"></a>
+  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Adjango"><img src="https://img.shields.io/badge/django-6272a4?style=flat-square" alt="django"></a>
+  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Acelery"><img src="https://img.shields.io/badge/celery-6272a4?style=flat-square" alt="celery"></a>
+  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Arest-api"><img src="https://img.shields.io/badge/rest--api-6272a4?style=flat-square" alt="rest-api"></a>
+  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Adocker"><img src="https://img.shields.io/badge/docker-6272a4?style=flat-square" alt="docker"></a>
+</p>
+
 ## Featured work
 
 | Project | What it does | Stack |
 |---|---|---|
-| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Django REST delivery marketplace — JWT auth, Celery/Redis async pipelines, road-distance pricing via OpenRouteService | Python, Django, Celery, Docker |
+| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Django REST delivery marketplace — JWT auth, Celery/Redis async pipelines, road-distance pricing via OpenRouteService | <img src="https://img.shields.io/badge/django-6272a4?style=flat-square" alt="django"> <img src="https://img.shields.io/badge/celery-6272a4?style=flat-square" alt="celery"> <img src="https://img.shields.io/badge/docker-6272a4?style=flat-square" alt="docker"> |
 
-<!-- Uncomment once fields-mapper is pushed to GitHub:
-| [fields-mapper](https://github.com/Iskanderrus/fields-mapper) | Go microservice for CSV field inference with a tiered heuristic → LLM architecture | Go, LLM API |
+<!-- Uncomment once fields-mapper is pushed to GitHub (and give the repo matching topics):
+| [fields-mapper](https://github.com/Iskanderrus/fields-mapper) | Go microservice for CSV field inference with a tiered heuristic → LLM architecture | <img src="https://img.shields.io/badge/golang-6272a4?style=flat-square" alt="golang"> <img src="https://img.shields.io/badge/llm-6272a4?style=flat-square" alt="llm"> |
 -->
 <!-- Add your AI roadmap projects here as you publish them -->
 
