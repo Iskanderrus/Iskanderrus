@@ -1,99 +1,31 @@
-<!--<div>
-  <p align="center">
-     <img src="my_banner.png" alt="My banner" width="80%">
-  </p>
-</div>-->
+# Hi, I'm Alex 👋
 
-Hi, and welcome to my GitHub page 👋
+**AI Engineer · Backend Systems & RAG Pipelines**
 
-I'm Alex,
-results-oriented Full-Stack Developer with over 5 years of experience specializing in Python, Java, Django, and Spring Boot, building scalable, end-to-end solutions with a focus on back-end development. Adept at creating robust back-end architectures, while also handling front-end tasks using HTML, CSS, and JavaScript to ensure seamless user experiences. Passionate about translating business needs into technical solutions that drive efficiency and automation.
-- my current stack: <br>
-    <!--![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)-->
-    <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <!--!![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)-->
+Backend engineer (Python/Django, Go) with 3+ years of production experience, now building AI systems: retrieval pipelines, LLM agents, and the infrastructure that keeps them reliable in production.
 
-    <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-    [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
+## What I'm building
 
-   <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)-->
+- 🔍 **RAG & retrieval engineering** — hybrid search (BM25 + dense vectors), pgvector, evaluation with RAGAS
+- 🤖 **LLM agents** — LangGraph workflows, direct Claude API integration, structured outputs, MCP servers
+- ⚙️ **Production backend** — Django REST, Go microservices (gRPC), PostgreSQL, Redis, Docker, Kubernetes
 
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-    ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-    ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-    ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+## Featured work
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [delivery_service](https://github.com/Iskanderrus/delivery_service) | Dockerized Django delivery-management service with a test suite | Python, Django, Docker |
 
-    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<!-- Uncomment once fields-mapper is pushed to GitHub:
+| [fields-mapper](https://github.com/Iskanderrus/fields-mapper) | Go microservice for CSV field inference with a tiered heuristic → LLM architecture | Go, LLM API |
+-->
+<!-- Add your AI roadmap projects here as you publish them -->
 
+## Currently
 
+- 📚 Deep-diving LLMOps, AWS, Kubernetes, and AI security
+- 🛠 Shipping AI projects weekly — watch this space
 
-    <!--
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+## Reach me
 
-    ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-    ![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
-    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-  <a href="https://www.ibm.com/cloud"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white"></a>-->
-
-    <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)-->
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-    <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
-
-    <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    <!--![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)-->
-
-    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-
-
-- In my repositories I collect some useful code samples as well as share my current projects I'm working on.
-- I'm honored to have ![](https://komarev.com/ghpvc/?username=Iskanderrus&style=flat-square&label=PROFILE+VIEWS&color=red)
-- Feel free to reach me: <br><a href="https://www.linkedin.com/in/Iskanderrus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:a.n.chasovskoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://t.me/Iskanderrus77"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-<table>
- <tr>
-  <td>&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Iskanderrus&theme=dracula" alt="GitHub Streak Stats">
-</td>
-  <td>&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iskanderrus&show_icons=true&theme=dracula">
-  </td>
-  <td>&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iskanderrus&layout=compact&theme=dracula">
-  </td>
- </tr>
-  <tr>
-  <td colspan="3">&nbsp;
-  <p align="center">
-  <a href='https://metrics.lecoq.io/insights/Iskanderrus'><img src="github-metrics.svg" alt="Click for detailed info" width="50%"></a>
-  </p>
-  </td>
- </tr>
-</table>
-
-
-<!---
-Iskanderrus/Iskanderrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/iskanderrus/) · [Email](mailto:a.n.chasovskoy@gmail.com) · Remote, EU/US timezones
