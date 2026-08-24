@@ -5,80 +5,76 @@
 </p>
 
 <p align="center">
-  APIs · Integrations · Distributed Workflows · Practical AI Systems
+  APIs · Integrations · Async Workflows · Production Reliability
 </p>
 
 <p align="center">
-  <em>Building reliable systems around complex business processes.</em>
+  <em>Building reliable backend systems for complex operational workflows.</em>
 </p>
 
 ## About me
 
-I am a senior backend engineer focused on turning complicated business processes into software that is clear, reliable, and maintainable.
+I am a **Senior Backend Engineer** building reliable Python and Django systems for complex operational workflows: orders, payments, logistics, external integrations, and asynchronous processing.
 
-My core stack is **Python, Django, and PostgreSQL**. My recent production work includes REST APIs, background processing, external integrations, data-intensive business logic, testing, CI/CD, and incident investigation for an omnichannel logistics platform covering orders, deliveries, and payments.
+At **annanow®**, I helped develop and operate an omnichannel logistics platform. I delivered the self-checkout workflow from address validation through Payrexx payment and order creation; integrated Planzer parcel services and delivery-status webhooks; contributed to moving core order placement from Django/HTMX to Go/React; and resolved production issues across authentication, tracking, invoicing, and order flows. Query optimisation eliminated recurring N+1 incidents—a category that had accounted for about 40% of recorded incidents.
 
-I have worked in small teams and as a sole developer, so my experience is broader than backend alone. I have delivered features end to end—including frontend work where the product required it—while taking particular ownership of backend architecture, integrations, asynchronous workflows, and production reliability.
+Previously, as the sole developer at **InKlim**, I designed, built, and operated a Django platform connecting CRM, e-commerce, inventory, warehouse operations, orders, and accounting.
 
-Before software engineering, I spent almost two decades in international sales and business development. That background helps me understand the operational and commercial reason behind a requirement, communicate with non-technical stakeholders, and choose solutions that work for the business as well as the codebase.
+Before software engineering, I spent nearly two decades in international sales and business development. That background helps me translate operational requirements into practical systems, communicate with non-technical stakeholders, and make technical decisions with business impact in mind.
 
-I also work with **Go** and practical AI integrations, including **RAG, structured LLM outputs, and AI-assisted engineering workflows**. I use these tools where they solve a real problem rather than adding AI for its own sake.
+My core stack is **Python, Django, Django REST Framework, PostgreSQL, Celery, Redis, RabbitMQ, Docker, and CI/CD**. I also work with **Go** and production-oriented AI integrations, including RAG and structured LLM outputs.
 
-## Core focus
+## Core strengths
 
-- **Backend systems** — REST APIs, domain logic, authentication, background processing, and service integrations
-- **Distributed workflows** — Celery, Redis, message queues, retries, idempotency, and failure handling
-- **Data and performance** — PostgreSQL, SQL, caching, search, and maintainable data models
-- **Production ownership** — architecture decisions, code review, automated testing, CI/CD, deployment, and incident investigation
-- **Practical AI systems** — RAG pipelines, structured outputs, LLM integrations, and workflow automation
+- **Backend systems** — REST APIs, domain logic, authentication, payments, and external integrations
+- **Async workflows** — Celery, Redis, RabbitMQ, retries, idempotency, and failure handling
+- **Data and performance** — PostgreSQL, SQL optimisation, caching, search, and maintainable data models
+- **Production reliability** — automated testing, CI/CD, deployment, incident investigation, and operational support
+- **Business alignment** — translating complex commercial and operational requirements into practical software
 
 ## Selected experience
 
 ### Omnichannel logistics platform
 
-Worked as a **Senior Software Engineer** in a small full-stack team, delivering features across the product with substantial ownership of Python/Django APIs, background workers, 3PL integrations, selected Go components, testing, CI/CD, staging, production support, and practical RAG integration.
+Senior backend and full-stack engineering across Python/Django APIs, asynchronous workers, payments, parcel integrations, selected Go components, testing, CI/CD, and production support.
 
 ### Integrated CRM, warehouse, and e-commerce platform
 
-Worked as the **sole full-stack developer**, designing and building the platform from scratch with Django, PostgreSQL, Redis, Elasticsearch, Celery, and RabbitMQ. Owned architecture, implementation, deployment, business-process modelling, and ongoing support.
+Sole full-stack developer responsible for architecture, implementation, deployment, and operation of a Django platform built with PostgreSQL, Redis, Elasticsearch, Celery, and RabbitMQ.
 
-> Most of my production work is private. The public repositories below demonstrate representative architecture and engineering practices.
+> Most of my production work is private. The public repository below demonstrates representative backend architecture and engineering practices.
 
 ## Toolbox
 
 <p align="center">
   <sub><b>Languages</b></sub><br>
-  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Apython"><img src="https://img.shields.io/badge/Python-6272a4?style=flat-square" alt="Python"></a>
+  <img src="https://img.shields.io/badge/Python-6272a4?style=flat-square" alt="Python">
   <img src="https://img.shields.io/badge/Go-6272a4?style=flat-square" alt="Go">
-  <br><sub><b>Backend &amp; APIs</b></sub><br>
-  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Adjango"><img src="https://img.shields.io/badge/Django-6272a4?style=flat-square" alt="Django"></a>
-  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Arest-api"><img src="https://img.shields.io/badge/REST_APIs-6272a4?style=flat-square" alt="REST APIs"></a>
-  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Acelery"><img src="https://img.shields.io/badge/Celery-6272a4?style=flat-square" alt="Celery"></a>
+  <br><sub><b>Backend &amp; Data</b></sub><br>
+  <img src="https://img.shields.io/badge/Django-6272a4?style=flat-square" alt="Django">
+  <img src="https://img.shields.io/badge/Django_REST_Framework-6272a4?style=flat-square" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/PostgreSQL-6272a4?style=flat-square" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Celery-6272a4?style=flat-square" alt="Celery">
   <img src="https://img.shields.io/badge/Redis-6272a4?style=flat-square" alt="Redis">
   <img src="https://img.shields.io/badge/RabbitMQ-6272a4?style=flat-square" alt="RabbitMQ">
   <br><sub><b>Delivery &amp; Operations</b></sub><br>
-  <a href="https://github.com/Iskanderrus?tab=repositories&q=topic%3Adocker"><img src="https://img.shields.io/badge/Docker-6272a4?style=flat-square" alt="Docker"></a>
+  <img src="https://img.shields.io/badge/Docker-6272a4?style=flat-square" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-6272a4?style=flat-square" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Automated_Testing-6272a4?style=flat-square" alt="Automated Testing">
-  <br><sub><b>AI Integration</b></sub><br>
-  <img src="https://img.shields.io/badge/RAG-6272a4?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/Structured_Outputs-6272a4?style=flat-square" alt="Structured Outputs">
-  <img src="https://img.shields.io/badge/LLM_APIs-6272a4?style=flat-square" alt="LLM APIs">
 </p>
 
 ## Featured work
 
-### [delivery_service](https://github.com/Iskanderrus/delivery_service)
+### [Delivery Service — Django REST Backend](https://github.com/Iskanderrus/delivery_service)
 
-A Django REST backend for a delivery marketplace with role-based JWT authentication, geo-aware road-distance pricing, Celery/Redis asynchronous processing, PostgreSQL, Docker Compose, automated tests, and CI.
+A Django REST backend for a delivery marketplace with role-based JWT authentication, road-distance pricing through OpenRouteService, Celery/Redis asynchronous processing, PostgreSQL, Docker Compose, automated tests, and CI.
 
 <img src="https://img.shields.io/badge/Django-6272a4?style=flat-square" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-6272a4?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Celery-6272a4?style=flat-square" alt="Celery"> <img src="https://img.shields.io/badge/Docker-6272a4?style=flat-square" alt="Docker">
 
 ## Currently
 
-- Open to **Senior Backend Engineer, Senior Python Developer, and backend-focused Senior Software Engineer** roles
-- Deepening my work with **Go, AWS, Kubernetes, and production AI systems**
+- Open to **remote contract** work worldwide
+- Targeting **Senior Backend Engineer, Senior Python Developer, and backend-focused Senior Software Engineer** roles
 - Building public projects and case studies that demonstrate backend architecture, integrations, and reliability
 
 ## Reach me
