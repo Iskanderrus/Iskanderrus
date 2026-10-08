@@ -32,6 +32,10 @@ Before moving into software engineering, I spent nearly two decades in internati
 
 ## Selected work
 
+### [Voice Analytics AI](https://github.com/Iskanderrus/voice-analytics-ai)
+
+An asynchronous voice-analysis platform with direct S3/MinIO uploads, PostgreSQL-backed job state, Celery/Redis processing, execution leases and stale-worker fencing, structured LLM analysis, user-configurable second-pass templates, local faster-whisper/Ollama support, a minimal Expo client, and AWS reference infrastructure.
+
 ### [Anki Cards Collector](https://github.com/Iskanderrus/anki-cards-collector)
 
 A local-first browser extension for capturing vocabulary and exporting it safely to Anki. The project includes explicit review state, per-language routing, AnkiConnect upserts, partial-failure handling, IndexedDB persistence, backup/restore, and browser E2E/accessibility coverage.
